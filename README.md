@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on react projects.
 - 📫 You can look my websites : 
 https://www.ab-developpement.fr/
-https://simplewebdesign.fr/
+
 
 <!---
 Yacinedeveloppeur/Yacinedeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
